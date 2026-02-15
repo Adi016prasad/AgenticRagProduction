@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+python3
+pydantic
+boto3
+dotenv
